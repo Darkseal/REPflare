@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "REPflare", "REPflare.njsproj", "{1C2C18AD-26B6-40C1-946D-F78E33CA9A60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C2C18AD-26B6-40C1-946D-F78E33CA9A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C2C18AD-26B6-40C1-946D-F78E33CA9A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C2C18AD-26B6-40C1-946D-F78E33CA9A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C2C18AD-26B6-40C1-946D-F78E33CA9A60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCACF700-723D-4F0F-ABEA-BBA5E0E03494}
+	EndGlobalSection
+EndGlobal
